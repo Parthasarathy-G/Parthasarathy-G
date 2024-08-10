@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
-#Tech-Savvy Adventurer | Engineering Graduate | Aspiring Software Sorcerer 👨‍💻
+## Tech-Savvy Adventurer | Engineering Graduate | Aspiring Software Sorcerer 👨‍💻
 
 Greetings, fellow coder! I'm an engineering graduate on a quest to channel my technical know-how into real-world wizardry. Armed with a passion for software development and a keen interest in database management systems, I'm not just here for a paycheck—I'm on a mission to make an impact!
 
