@@ -21,8 +21,6 @@ In a previous chapter, I donned the mantle of Club Editor, adding a touch of mag
 ## 🚀 On a Quest for Impact
 I'm hunting for the perfect entry-level gig to transform my technical talents into something truly impactful. Whether it's crafting elegant software solutions or diving deep into database systems, I'm ready to take on the challenges that lie ahead.
 
-## Let's code something amazing together! 💻🖱️
-
 ### 📫 How to reach me - 
 ### parthasarathy0580@gmail.com
 <img align="right" alt="Coding" width="200" src="https://cdn.sanity.io/images/do2rqv0h/production/3356021b2d743e60cb89b0b97196fb2b2b0b44a0-800x800.gif?w=1116&fit=max&auto=format">
