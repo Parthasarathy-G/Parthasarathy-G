@@ -9,7 +9,7 @@ My journey is fueled by an insatiable curiosity and a love for all things tech. 
 ## 🔮 My Arsenal of Skills
 - **Java**: The core of my software spells.
 - **MySQL**: The key to unlocking data mysteries.
-- **HTML, CSS, JavaScript**: My trio for crafting web wonders.
+- **HTML, CSS**: My trio for crafting web wonders.
 - **Git & GitHub**: My compass in the coding wilderness.
 - **AWS**: My portal to cloud-based marvels.
 - **Office Tools**: Because even tech-wizards need a little old-school charm.
