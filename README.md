@@ -45,5 +45,6 @@ I'm hunting for the perfect entry-level gig to transform my technical talents in
 <p align="left">
 <a href="https://linkedin.com/in/parthasarathyg28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/parthasarathy_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parthasarathy_._" height="30" width="40" /></a>
+  <a href="https://www.reddit.com/user/DrigervAlt/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="parthasarathy_._" height="40" width="40" /></a>
 </p>
 
