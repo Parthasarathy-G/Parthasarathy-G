@@ -1,25 +1,47 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
-## Tech-Savvy Adventurer | Engineering Graduate | Aspiring Software Sorcerer 👨‍💻
+# 👨‍💻 Tech-Savvy Adventurer | Engineering Graduate | Aspiring Software Developer  
 
-Greetings, fellow coder! I'm an engineering graduate on a quest to channel my technical know-how into real-world wizardry. Armed with a passion for software development and a keen interest in database management systems, I'm not just here for a paycheck—I'm on a mission to make an impact!
+Welcome to my GitHub profile! I'm an engineering graduate passionate about leveraging technology to create impactful solutions. With a solid foundation in software development and a growing focus on DevOps practices, I am on a journey to continuously learn, innovate, and contribute.
 
-## 🌟 What Drives Me?
-My journey is fueled by an insatiable curiosity and a love for all things tech. From mastering the spells of **Java** to unlocking the mysteries of **MySQL**, I thrive on tackling challenges and pushing the boundaries of what's possible.
+---
 
-## 🔮 My Arsenal of Skills
-- **Java**: The core of my software spells.
-- **MySQL**: The key to unlocking data mysteries.
-- **HTML, CSS**: My trio for crafting web wonders.
-- **Git & GitHub**: My compass in the coding wilderness.
-- **AWS**: My portal to cloud-based marvels.
-- **Office Tools**: Because even tech-wizards need a little old-school charm.
-- **Photoshop, Premiere Pro, Illustrator, Canva**: My brushes for digital dreams.
+## 🌟 Current Learning Path  
+I am actively expanding my technical knowledge and exploring tools and technologies, including:  
+- **Linux Fundamentals**  
+- **Docker**  
+- **Kubernetes**  
+- **Git & GitHub**  
+- **AWS**  
+- **Python**  
+- **Shell Scripting**  
+- **Jenkins**  
+- **Other DevOps Tools**  
 
-## 💼 Past Adventures
-In a previous chapter, I donned the mantle of Club Editor, adding a touch of magic to the Rotaract Club of Sri Shakthi Institute of Engineering and Technology. But that's just one facet of my story—I'm constantly evolving, always on the lookout for the next opportunity to learn, grow, and create something extraordinary.
+---
 
-## 🚀 On a Quest for Impact
-I'm hunting for the perfect entry-level gig to transform my technical talents into something truly impactful. Whether it's crafting elegant software solutions or diving deep into database systems, I'm ready to take on the challenges that lie ahead.
+## 💻 Technical Skills  
+- **Programming:** Java, Python  
+- **Databases:** MySQL  
+- **Web Development:** HTML, CSS  
+- **Version Control:** Git, GitHub  
+- **DevOps & Cloud:** AWS, Docker, Kubernetes (in progress)  
+- **Creative Tools:** Photoshop, Premiere Pro, After Effects, Canva, Illustrator  
+
+---
+
+## 💼 Professional Background  
+### Rotaract Club of Sri Shakthi Institute of Engineering and Technology  
+**Role:** Club Editor  
+- Designed and edited promotional materials including posters, magazines, and brochures.  
+- Collaborated with team members to manage and deliver creative projects.  
+- Contributed to event planning and execution, enhancing organizational visibility.  
+
+---
+
+## 🚀 Career Objectives  
+I am actively seeking entry-level opportunities in software development or DevOps where I can apply my growing expertise to deliver impactful solutions. I am eager to collaborate on innovative projects, tackle complex challenges, and contribute to organizational success.  
+
+---
 
 ### 📫 How to reach me - 
 ### parthasarathy0580@gmail.com
