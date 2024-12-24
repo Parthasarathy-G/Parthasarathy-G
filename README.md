@@ -45,7 +45,6 @@ I am actively seeking entry-level opportunities in software development or DevOp
 
 ### 📫 How to reach me - 
 ### parthasarathy0580@gmail.com
-<img align="right" alt="Coding" width="100" src="https://cdn.sanity.io/images/do2rqv0h/production/3356021b2d743e60cb89b0b97196fb2b2b0b44a0-800x800.gif?w=1116&fit=max&auto=format">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
