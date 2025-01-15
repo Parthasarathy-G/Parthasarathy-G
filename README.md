@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
-#Tech-Savvy Adventurer | Engineering Graduate | Aspiring DevOps Engineer 
+# Tech-Savvy Adventurer | Engineering Graduate | Aspiring DevOps Engineer 
 
 Welcome to my GitHub profile! I'm an engineering graduate passionate about leveraging technology to create impactful solutions. With a solid foundation in software development and a growing focus on DevOps practices, I am on a journey to continuously learn, innovate, and contribute.
 
