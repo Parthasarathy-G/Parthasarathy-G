@@ -20,22 +20,12 @@ I am actively expanding my technical knowledge and exploring tools and technolog
 ---
 
 ## Technical Skills  
-- **Programming:** Java, Python  
+- **Programming:** Java 
 - **Databases:** MySQL  
 - **Web Development:** HTML, CSS  
 - **Version Control:** Git, GitHub  
-- **DevOps & Cloud:** AWS, Docker, Kubernetes (in progress)  
+- **DevOps & Cloud:** AWS, Docker, Kubernetes, Python (in progress)  
 - **Creative Tools:** Photoshop, Premiere Pro, After Effects, Canva, Illustrator  
-
----
-
-## Professional Background  
-### Rotaract Club of Sri Shakthi Institute of Engineering and Technology  
-**Role:** Club Editor  
-- Designed and edited promotional materials including posters, magazines, and brochures.  
-- Collaborated with team members to manage and deliver creative projects.  
-- Contributed to event planning and execution, enhancing organizational visibility.  
-
 ---
 
 ## Career Objectives  
