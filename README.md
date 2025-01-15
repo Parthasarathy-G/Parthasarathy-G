@@ -1,11 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
-# 👨‍💻 Tech-Savvy Adventurer | Engineering Graduate | Aspiring DevOps Engineer 
+#Tech-Savvy Adventurer | Engineering Graduate | Aspiring DevOps Engineer 
 
 Welcome to my GitHub profile! I'm an engineering graduate passionate about leveraging technology to create impactful solutions. With a solid foundation in software development and a growing focus on DevOps practices, I am on a journey to continuously learn, innovate, and contribute.
 
 ---
 
-## 🌟 Current Learning Path  
+## Current Learning Path  
 I am actively expanding my technical knowledge and exploring tools and technologies, including:  
 - **Linux Fundamentals**  
 - **Docker**  
@@ -19,7 +19,7 @@ I am actively expanding my technical knowledge and exploring tools and technolog
 
 ---
 
-## 💻 Technical Skills  
+## Technical Skills  
 - **Programming:** Java, Python  
 - **Databases:** MySQL  
 - **Web Development:** HTML, CSS  
@@ -29,7 +29,7 @@ I am actively expanding my technical knowledge and exploring tools and technolog
 
 ---
 
-## 💼 Professional Background  
+## Professional Background  
 ### Rotaract Club of Sri Shakthi Institute of Engineering and Technology  
 **Role:** Club Editor  
 - Designed and edited promotional materials including posters, magazines, and brochures.  
@@ -38,7 +38,7 @@ I am actively expanding my technical knowledge and exploring tools and technolog
 
 ---
 
-## 🚀 Career Objectives  
+## Career Objectives  
 I am actively seeking entry-level opportunities in software development or DevOps where I can apply my growing expertise to deliver impactful solutions. I am eager to collaborate on innovative projects, tackle complex challenges, and contribute to organizational success.  
 
 ---
