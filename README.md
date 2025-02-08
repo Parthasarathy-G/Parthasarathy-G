@@ -34,7 +34,7 @@ I am actively seeking entry-level opportunities in software development or DevOp
 ---
 
 ### 📫 How to reach me - 
-### parthasarathy0580@gmail.com
+### parthasarathy.work@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
