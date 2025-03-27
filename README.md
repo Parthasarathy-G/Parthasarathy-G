@@ -20,7 +20,7 @@ I am actively expanding my technical knowledge and exploring tools and technolog
 ---
 
 ## Technical Skills  
-- **Programming:** Java 
+- **Programming:** Java , Python
 - **Databases:** MySQL  
 - **Web Development:** HTML, CSS  
 - **Version Control:** Git, GitHub  
