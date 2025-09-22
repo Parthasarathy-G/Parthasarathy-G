@@ -22,7 +22,6 @@ I am actively expanding my technical knowledge and exploring tools and technolog
 ## Technical Skills  
 - **Programming:** Java , Python
 - **Databases:** MySQL  
-- **Web Development:** HTML, CSS  
 - **Version Control:** Git, GitHub  
 - **DevOps & Cloud:** AWS, Docker, Kubernetes, Python (in progress)  
 - **Creative Tools:** Photoshop, Premiere Pro, After Effects, Canva, Illustrator  
