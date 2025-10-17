@@ -1,53 +1,54 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
 
-# MERN Stack Developer | Engineering Graduate | Tech-Savvy Builder
+# 🛠️ DevOps Engineer | Cloud & Infrastructure Enthusiast | Engineering Graduate  
 
-Welcome to my GitHub profile! I'm an engineering graduate with a strong passion for full-stack web development using the MERN stack. With a solid foundation in building modern applications and a drive for continuous learning, I’m eager to craft impactful digital solutions.
-
----
-
-## 🚀 Current Learning Path
-I am actively expanding my technical skills and working with tools and technologies, including:
-- MongoDB (Database)
-- Express.js (Backend Framework)
-- React.js (Frontend Library)
-- Node.js (Backend Runtime)
-- JavaScript (ES6+)
-- TypeScript
-- REST APIs & GraphQL
-- Redux / Context API (State Management)
-- HTML5, CSS3, SASS, Bootstrap, Material UI, Tailwind CSS
-- JWT / OAuth (Authentication & Security)
-- Testing: Jest, Mocha, Chai
-- Git & GitHub
-- CI/CD: GitHub Actions, Netlify, Vercel
-- Deployment: AWS, Heroku, Render, Firebase
-- Dev Tools: VS Code, Postman, Docker (basic)
+Welcome to my GitHub profile!  
+I'm an engineering graduate passionate about **DevOps, Cloud Computing, and Automation**.  
+I enjoy designing efficient CI/CD pipelines, managing scalable infrastructure, and implementing modern DevOps tools and practices to streamline software delivery.
 
 ---
 
-## 💻 Technical Skills
-- **Languages:** JavaScript (ES6+), TypeScript, Java, Python
-- **Frontend:** React.js, Redux, Context API, HTML5, CSS3, Bootstrap, Material UI, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs, GraphQL
-- **Databases:** MongoDB, MySQL (basics)
-- **Version Control:** Git, GitHub
-- **Testing:** Jest, Mocha, Chai
-- **Deployment:** AWS, Heroku, Vercel, Netlify, Firebase
-- **Other Tools:** Postman, Docker (basic), VS Code
-- **Creative Tools:** Photoshop, Premiere Pro, After Effects, Canva, Illustrator
+## 🚀 Current Learning Path  
+I’m currently enhancing my expertise in DevOps tools, cloud platforms, and automation practices, including:  
+
+- 🐧 **Operating Systems:** Linux (Ubuntu), Windows Server  
+- 🔧 **Version Control:** Git, GitHub  
+- 🌐 **Networking Concepts:** TCP/IP, DNS, Load Balancing, Firewalls  
+- 💻 **Scripting & Automation:** Bash/Shell Scripting, Python  
+- ⚙️ **Configuration Management:** Ansible  
+- 🔄 **CI/CD Tools:** Jenkins, GitHub Actions  
+- 🐳 **Containerization:** Docker  
+- ☸️ **Orchestration:** Kubernetes (learning)  
+- ☁️ **Cloud Platforms:** Amazon Web Services (AWS)  
+- 🏗️ **Infrastructure as Code (IaC):** Terraform (learning)  
+- 📊 **Monitoring & Logging:** Prometheus, Grafana (basics)  
+- 🔒 **Security as Code (SaC):** Implementing compliance and access control practices  
+- 🧰 **Other Tools:** Postman, VS Code, VMware, VirtualBox  
 
 ---
 
-## 🎯 Career Objectives
-I am actively seeking entry-level opportunities as a MERN stack/full-stack developer. I am passionate about building dynamic web applications, collaborating on innovative projects, and solving problems with creativity and technology.
+## 💻 Technical Skills  
+
+- **Languages:** Bash/Shell, Python, Java  
+- **Cloud & Infrastructure:** AWS (EC2, S3, IAM, VPC, CloudWatch)  
+- **Automation Tools:** Ansible, Jenkins, Docker, Terraform (learning)  
+- **Version Control & Collaboration:** Git, GitHub  
+- **CI/CD Pipelines:** Jenkins, GitHub Actions  
+- **Operating Systems:** Linux (Ubuntu), Windows Server  
+- **Monitoring Tools:** Prometheus, Grafana (basics)  
+- **Database Systems:** MySQL  
+- **Networking:** IP addressing, DNS, Load Balancing, Routing, Firewall management  
+- **Other Tools:** VS Code, VMware, Postman  
+- **Creative Tools:** Photoshop, Illustrator, Canva, Premiere Pro  
 
 ---
 
-## 📫 How to reach me
-**Email:** [parthasarathy.work@gmail.com](mailto:parthasarathy.work@gmail.com)
+## 🎯 Career Objectives  
+I’m seeking an **entry-level opportunity in DevOps or Cloud Infrastructure** where I can contribute to automation, scalability, and reliability of systems.  
+My goal is to bridge the gap between development and operations by leveraging CI/CD pipelines, infrastructure as code, and cloud technologies to deliver efficient solutions.
 
 ---
+
 
 ### 🌐 Connect with me:
 
