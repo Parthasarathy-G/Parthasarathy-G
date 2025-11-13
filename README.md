@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
 
-# 🤖 MLOps Engineer | Cloud & DevOps Enthusiast | Engineering Graduate  
+# MLOps Engineer 🤖💻 | Cloud & DevOps Enthusiast | Engineering Graduate  
 
 Welcome to my GitHub profile!  
 I’m an engineering graduate passionate about **Machine Learning Operations (MLOps), Cloud Computing, and Automation**.  
@@ -25,6 +25,24 @@ I’m currently enhancing my expertise in **MLOps tools, cloud platforms, and au
 - 🔍 **Model Monitoring & Tracking:** MLflow, DVC, Kubeflow (learning)  
 - 🔒 **Security as Code:** IAM, Secrets Management, Role-based Access  
 - 🧰 **Other Tools:** VS Code, VMware, VirtualBox, Postman  
+
+---
+
+## 💼 Professional Experience  
+
+### 🖥️ **IT Trainee – Flextronics Technologies Pvt Ltd, Coimbatore**  
+*October 2024 – Present*  
+
+- Working in the Infrastructure Department supporting large-scale enterprise environments.  
+- Managing and maintaining Windows Server and Linux (Ubuntu) systems, including installation, patching, and troubleshooting.  
+- Administering and monitoring VMware infrastructure with 100+ guest operating systems and physical servers.  
+- Managing cloud-based resources on AWS (EC2, S3, IAM, VPC, CloudWatch) and ensuring efficient utilization.  
+- Developing automation scripts using Bash/Shell to streamline operational workflows and reduce manual interventions.  
+- Collaborating with network and server teams to configure DNS, firewalls, and load balancers for optimal network performance.  
+- Supporting CI/CD pipelines using Jenkins and GitHub Actions for infrastructure deployment and updates.  
+- Implementing logging and monitoring using Prometheus, Grafana, and AWS CloudWatch for proactive issue detection.  
+- Ensuring system security compliance through IAM role management, access control, and security hardening practices.  
+- Assisting internal teams and documenting procedures for smooth operations and knowledge sharing.  
 
 ---
 
@@ -53,7 +71,7 @@ My goal is to integrate **DevOps principles into machine learning**, ensuring co
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/parthasarathyg28" target="blank">
+  <a href="https://www.linkedin.com/in/parthasarathyg28/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="25" width="25" />
   </a>
 </p>
