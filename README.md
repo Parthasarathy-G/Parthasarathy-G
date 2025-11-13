@@ -1,58 +1,63 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
 
-# 🛠️ DevOps Engineer | Cloud & Infrastructure Enthusiast | Engineering Graduate  
+# 🤖 MLOps Engineer | Cloud & DevOps Enthusiast | Engineering Graduate  
 
 Welcome to my GitHub profile!  
-I'm an engineering graduate passionate about **DevOps, Cloud Computing, and Automation**.  
-I enjoy designing efficient CI/CD pipelines, managing scalable infrastructure, and implementing modern DevOps tools and practices to streamline software delivery.
+I’m an engineering graduate passionate about **Machine Learning Operations (MLOps), Cloud Computing, and Automation**.  
+I enjoy building scalable ML infrastructure, automating model deployment pipelines, and integrating DevOps practices into the machine learning lifecycle to enhance reliability and performance.  
 
 ---
 
 ## 🚀 Current Learning Path  
-I’m currently enhancing my expertise in DevOps tools, cloud platforms, and automation practices, including:  
+I’m currently enhancing my expertise in **MLOps tools, cloud platforms, and automation frameworks**, focusing on:  
 
 - 🐧 **Operating Systems:** Linux (Ubuntu), Windows Server  
 - 🔧 **Version Control:** Git, GitHub  
-- 🌐 **Networking Concepts:** TCP/IP, DNS, Load Balancing, Firewalls  
+- 🧠 **Machine Learning Frameworks:** TensorFlow, Scikit-learn, PyTorch (learning)  
 - 💻 **Scripting & Automation:** Bash/Shell Scripting, Python  
 - ⚙️ **Configuration Management:** Ansible  
-- 🔄 **CI/CD Tools:** Jenkins, GitHub Actions  
+- 🔄 **CI/CD for ML:** Jenkins, GitHub Actions, MLflow  
 - 🐳 **Containerization:** Docker  
 - ☸️ **Orchestration:** Kubernetes (learning)  
 - ☁️ **Cloud Platforms:** Amazon Web Services (AWS)  
 - 🏗️ **Infrastructure as Code (IaC):** Terraform (learning)  
 - 📊 **Monitoring & Logging:** Prometheus, Grafana (basics)  
-- 🔒 **Security as Code (SaC):** Implementing compliance and access control practices  
-- 🧰 **Other Tools:** Postman, VS Code, VMware, VirtualBox  
+- 🔍 **Model Monitoring & Tracking:** MLflow, DVC, Kubeflow (learning)  
+- 🔒 **Security as Code:** IAM, Secrets Management, Role-based Access  
+- 🧰 **Other Tools:** VS Code, VMware, VirtualBox, Postman  
 
 ---
 
 ## 💻 Technical Skills  
 
-- **Languages:** Bash/Shell, Python, Java  
+- **Languages:** Python, Bash/Shell, Java  
+- **Machine Learning Tools:** Scikit-learn, TensorFlow, MLflow (learning)  
+- **Data Versioning:** DVC (learning)  
 - **Cloud & Infrastructure:** AWS (EC2, S3, IAM, VPC, CloudWatch)  
 - **Automation Tools:** Ansible, Jenkins, Docker, Terraform (learning)  
 - **Version Control & Collaboration:** Git, GitHub  
 - **CI/CD Pipelines:** Jenkins, GitHub Actions  
-- **Operating Systems:** Linux (Ubuntu), Windows Server  
+- **Orchestration:** Kubernetes (learning)  
 - **Monitoring Tools:** Prometheus, Grafana (basics)  
 - **Database Systems:** MySQL  
 - **Networking:** IP addressing, DNS, Load Balancing, Routing, Firewall management  
-- **Other Tools:** VS Code, VMware, Postman  
 - **Creative Tools:** Photoshop, Illustrator, Canva, Premiere Pro  
 
 ---
 
 ## 🎯 Career Objectives  
-I’m seeking an **entry-level opportunity in DevOps or Cloud Infrastructure** where I can contribute to automation, scalability, and reliability of systems.  
-My goal is to bridge the gap between development and operations by leveraging CI/CD pipelines, infrastructure as code, and cloud technologies to deliver efficient solutions.
+I’m preparing for an **MLOps Engineer role**, aiming to design and automate end-to-end ML model workflows — from data preparation and model training to deployment and monitoring.  
+My goal is to integrate **DevOps principles into machine learning**, ensuring continuous delivery of ML models with scalability, reproducibility, and reliability.  
 
 ---
 
-
 ### 🌐 Connect with me:
-
 <p align="left">
-  <a href="https://linkedin.com/in/parthasarathyg28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="25" width="25" /></a>
-  <a href="https://t.me/Driger_valt" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-icon-6896828_1280.png" alt="parthasarathy_._" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/parthasarathyg28" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="25" width="25" />
+  </a>
 </p>
+
+---
+
+⭐️ *“Bridging the gap between Data Science and DevOps — one model at a time.”*
