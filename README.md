@@ -31,18 +31,14 @@ I’m currently enhancing my expertise in **MLOps tools, cloud platforms, and au
 ## 💼 Professional Experience  
 
 ### 🖥️ **IT Trainee – Flextronics Technologies Pvt Ltd, Coimbatore**  
-*October 2024 – Present*  
+*August 2024 – Present*  
 
-- Working in the Infrastructure Department supporting large-scale enterprise environments.  
-- Managing and maintaining Windows Server and Linux (Ubuntu) systems, including installation, patching, and troubleshooting.  
-- Administering and monitoring VMware infrastructure with 100+ guest operating systems and physical servers.  
-- Managing cloud-based resources on AWS (EC2, S3, IAM, VPC, CloudWatch) and ensuring efficient utilization.  
-- Developing automation scripts using Bash/Shell to streamline operational workflows and reduce manual interventions.  
-- Collaborating with network and server teams to configure DNS, firewalls, and load balancers for optimal network performance.  
-- Supporting CI/CD pipelines using Jenkins and GitHub Actions for infrastructure deployment and updates.  
-- Implementing logging and monitoring using Prometheus, Grafana, and AWS CloudWatch for proactive issue detection.  
-- Ensuring system security compliance through IAM role management, access control, and security hardening practices.  
-- Assisting internal teams and documenting procedures for smooth operations and knowledge sharing.  
+- Assisted in server administration and troubleshooting, ensuring smooth operations and minimal downtime.
+- Worked on Linux-based environments for system monitoring, patch management, and user access control.
+- Developed and executed automation scripts (Shell/Batch) to streamline routine administrative tasks.
+- Provided technical support for servers, VMware, and cloud-related tasks, improving system efficiency.
+- Gained hands-on experience in data center operations, server backup, and recovery processes.
+- Collaborated with senior system engineers to enhance infrastructure performance and security.
 
 ---
 
