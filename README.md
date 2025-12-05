@@ -1,77 +1,125 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
 
-# MLOps Engineer 🤖💻 | Cloud & DevOps Enthusiast | Engineering Graduate  
+# IT Engineer | DevOps & Cloud Enthusiast ☁️🔧 | Engineering Graduate  
 
 Welcome to my GitHub profile!  
-I’m an engineering graduate passionate about **Machine Learning Operations (MLOps), Cloud Computing, and Automation**.  
-I enjoy building scalable ML infrastructure, automating model deployment pipelines, and integrating DevOps practices into the machine learning lifecycle to enhance reliability and performance.  
+I’m an IT Engineer with hands-on experience in **incident management, server administration, system patching, and large-scale migration projects**.  
+Currently upskilling in **DevOps, Cloud, and Automation** to build scalable and reliable infrastructure systems.
 
 ---
 
 ## 🚀 Current Learning Path  
-I’m currently enhancing my expertise in **MLOps tools, cloud platforms, and automation frameworks**, focusing on:  
 
-- 🐧 **Operating Systems:** Linux (Ubuntu), Windows Server  
+I am actively expanding my skills across DevOps, cloud platforms, and automation technologies:
+
+- 🐧 **Operating Systems:** Ubuntu (Linux), Windows Server  
 - 🔧 **Version Control:** Git, GitHub  
-- 🧠 **Machine Learning Frameworks:** TensorFlow, Scikit-learn, PyTorch (learning)  
-- 💻 **Scripting & Automation:** Bash/Shell Scripting, Python  
-- ⚙️ **Configuration Management:** Ansible  
-- 🔄 **CI/CD for ML:** Jenkins, GitHub Actions, MLflow  
+- 💻 **Programming & Scripting:** Java, Python, Bash/Shell  
+- ⚙️ **DevOps & Automation:** Jenkins, Ansible, Terraform  
 - 🐳 **Containerization:** Docker  
-- ☸️ **Orchestration:** Kubernetes (learning)  
-- ☁️ **Cloud Platforms:** Amazon Web Services (AWS)  
-- 🏗️ **Infrastructure as Code (IaC):** Terraform (learning)  
-- 📊 **Monitoring & Logging:** Prometheus, Grafana (basics)  
-- 🔍 **Model Monitoring & Tracking:** MLflow, DVC, Kubeflow (learning)  
-- 🔒 **Security as Code:** IAM, Secrets Management, Role-based Access  
-- 🧰 **Other Tools:** VS Code, VMware, VirtualBox, Postman  
+- ☸️ **Orchestration:** Kubernetes (Basic)  
+- 🔄 **CI/CD Pipelines:** Jenkins, GitHub Actions  
+- ☁️ **Cloud Technologies:** AWS (Core Services, Architecture Basics)  
+- 🏗️ **Infrastructure as Code (IaC):** Terraform (Learning)  
+- 📡 **Networking:** OSI Layers, Subnetting, VPC Concepts  
+- 📊 **Monitoring:** Prometheus (Basic), Grafana (Basic)  
+- 🤖 **AI Tools:** GitHub Copilot, Cursor AI, ChatGPT, DeepSeek, Claude  
+- 🧰 **Other Tools:** VS Code, IntelliJ, VMware, Photoshop, Canva, Premiere Pro  
 
 ---
 
 ## 💼 Professional Experience  
 
-### 🖥️ **IT Trainee – Flextronics Technologies Pvt Ltd, Coimbatore**  
-*August 2024 – Present*  
+### 🖥️ Information Technology Trainee — Flextronics Technologies Pvt Ltd, Coimbatore  
+**Aug 2024 – Present**
 
-- Assisted in server administration and troubleshooting, ensuring smooth operations and minimal downtime.
-- Worked on Linux-based environments for system monitoring, patch management, and user access control.
-- Developed and executed automation scripts (Shell/Batch) to streamline routine administrative tasks.
-- Provided technical support for servers, VMware, and cloud-related tasks, improving system efficiency.
-- Gained hands-on experience in data center operations, server backup, and recovery processes.
-- Collaborated with senior system engineers to enhance infrastructure performance and security.
+- Assisted in server administration, incident handling, and troubleshooting to maintain consistent uptime.  
+- Worked extensively on Linux systems for monitoring, patch management, and user access control.  
+- Developed automation scripts (Shell/Batch) to reduce manual operational workload.  
+- Provided technical support for servers, VMware applications, and cloud-related tasks.  
+- Gained exposure to data center operations, backups, and recovery processes.  
+- Participated in a large-scale migration involving **3000+ servers**, supporting hardware setup, network configuration, documentation, and post-validation activities.
 
 ---
 
 ## 💻 Technical Skills  
 
-- **Languages:** Python, Bash/Shell, Java  
-- **Machine Learning Tools:** Scikit-learn, TensorFlow, MLflow (learning)  
-- **Data Versioning:** DVC (learning)  
-- **Cloud & Infrastructure:** AWS (EC2, S3, IAM, VPC, CloudWatch)  
-- **Automation Tools:** Ansible, Jenkins, Docker, Terraform (learning)  
-- **Version Control & Collaboration:** Git, GitHub  
-- **CI/CD Pipelines:** Jenkins, GitHub Actions  
-- **Orchestration:** Kubernetes (learning)  
-- **Monitoring Tools:** Prometheus, Grafana (basics)  
-- **Database Systems:** MySQL  
-- **Networking:** IP addressing, DNS, Load Balancing, Routing, Firewall management  
-- **Creative Tools:** Photoshop, Illustrator, Canva, Premiere Pro  
+### **Programming & Core Concepts**  
+- Java  
+- Python  
+- Bash/Shell Scripting  
+- MySQL  
+- Object-Oriented Programming  
+
+### **DevOps & Cloud**  
+- Git, GitHub  
+- Jenkins, Ansible  
+- Docker  
+- Kubernetes (Basic)  
+- Terraform (Learning)  
+- CI/CD Pipelines  
+- AWS (EC2, S3, IAM, VPC, CloudWatch, CloudFront)
+
+### **Monitoring & Observability**  
+- Prometheus (Basic)  
+- Grafana (Basic)
+
+### **Creative & Productivity Tools**  
+- Photoshop, Canva  
+- Illustrator, Premiere Pro, CapCut  
+- VS Code, IntelliJ  
 
 ---
 
-## 🎯 Career Objectives  
-I’m preparing for an **MLOps Engineer role**, aiming to design and automate end-to-end ML model workflows — from data preparation and model training to deployment and monitoring.  
-My goal is to integrate **DevOps principles into machine learning**, ensuring continuous delivery of ML models with scalability, reproducibility, and reliability.  
+## 📂 Projects  
+
+### 🔹 Large-Scale Data Center Migration (3000+ Servers)  
+Worked on a major migration initiative that covered thousands of servers.  
+Supported hardware setup, network configuration, documentation, system backups, and cross-team coordination to ensure smooth and minimal-downtime migration.
+
+### 🔹 Raspberry Pi–Based Parking Slot Availability & Billing System  
+Developed an automated parking system using Raspberry Pi to collect local sensor data and send signals to AWS.  
+Implemented edge computing for low-latency processing and cloud-based management for scalability.
+
+### 🔹 PC CraftsMaster — Inventory Management System  
+Created a Java + MySQL console project for inventory tracking, billing, stock updates, error handling, and data validation, ensuring an efficient store management flow.
 
 ---
 
-### 🌐 Connect with me:
+## 🎓 Education  
+
+**Bachelor of Engineering in Electronics and Communication Engineering**  
+Sri Shakthi Institute of Engineering and Technology, Coimbatore  
+**CGPA:** 7.82 / 10  
+
+---
+
+## 🏅 Certifications  
+
+- **AWS Cloud Practitioner Essentials — Amazon Web Services**  
+- **AWS Technical Essentials — Amazon Web Services**  
+- **AWS Machine Learning & AI Fundamentals — Amazon Web Services**  
+- **AWS Fundamentals — NimbusGurus**  
+- **Google Cloud Fundamentals: Core Infrastructure — Google**  
+- **AI Upskilling Certificate: Technical Foundations — Qualcomm Academy**
+
+---
+
+## ⭐ Career Objective  
+
+I aim to grow into a **DevOps / Cloud / Infrastructure Engineer**, focusing on implementing automation, improving system performance, and building scalable cloud-based solutions.  
+My long-term goal is to design **secure, reliable, and efficient infrastructure** powered by DevOps, Cloud, and IaC practices.
+
+---
+
+## 🌐 Connect with Me  
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/parthasarathyg28/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="25" width="25" />
+  <a href="https://www.linkedin.com/in/parthasarathyg28/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="25" />
   </a>
 </p>
 
 ---
 
-⭐️ *“Bridging the gap between Data Science and DevOps — one model at a time.”*
+⭐ *“Building reliable systems through automation, cloud, and continuous improvement.”*
