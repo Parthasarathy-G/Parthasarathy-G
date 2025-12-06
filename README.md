@@ -31,7 +31,7 @@ I am actively expanding my skills across DevOps, cloud platforms, and automation
 ## 💼 Professional Experience  
 
 ### 🖥️ Information Technology Trainee — Flextronics Technologies Pvt Ltd, Coimbatore  
-**Aug 2024 – Present**
+**Aug 2024 – Dec 2025**
 
 - Assisted in server administration, incident handling, and troubleshooting to maintain consistent uptime.  
 - Worked extensively on Linux systems for monitoring, patch management, and user access control.  
