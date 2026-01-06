@@ -1,94 +1,87 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
 
-# IT Engineer | DevOps & Cloud Enthusiast ☁️🔧 | Engineering Graduate  
+# Software Engineer | Backend • DevOps • Cloud ☁️🔧 | Engineering Graduate  
 
 Welcome to my GitHub profile!  
-I’m an IT Engineer with hands-on experience in **incident management, server administration, system patching, and large-scale migration projects**.  
-Currently upskilling in **DevOps, Cloud, and Automation** to build scalable and reliable infrastructure systems.
+I am a **Software Engineer with 1+ year of experience in IT infrastructure and production support**, working on **system troubleshooting, patching, ticket handling, and migration activities** across large-scale Linux and Windows environments.
+
+Alongside my support responsibilities, I am **actively revising core software development fundamentals learned during academics** and building hands-on expertise in **Java, MySQL, backend development, and modern DevOps tools**, with the goal of transitioning into **product-oriented software engineering roles**.
 
 ---
 
 ## 🚀 Current Learning Path  
 
-I am actively expanding my skills across DevOps, cloud platforms, and automation technologies:
+I am continuously strengthening my foundation in **software development, DevOps, and cloud technologies**, focusing on skills that improve system reliability and scalability:
 
-- 🐧 **Operating Systems:** Ubuntu (Linux), Windows Server  
-- 🔧 **Version Control:** Git, GitHub  
-- 💻 **Programming & Scripting:** Java, Python, Bash/Shell  
-- ⚙️ **DevOps & Automation:** Jenkins, Ansible, Terraform  
-- 🐳 **Containerization:** Docker  
-- ☸️ **Orchestration:** Kubernetes (Basic)  
-- 🔄 **CI/CD Pipelines:** Jenkins, GitHub Actions  
-- ☁️ **Cloud Technologies:** AWS (Core Services, Architecture Basics)  
-- 🏗️ **Infrastructure as Code (IaC):** Terraform (Learning)  
-- 📡 **Networking:** OSI Layers, Subnetting, VPC Concepts  
-- 📊 **Monitoring:** Prometheus (Basic), Grafana (Basic)  
-- 🤖 **AI Tools:** GitHub Copilot, Cursor AI, ChatGPT, DeepSeek, Claude  
-- 🧰 **Other Tools:** VS Code, IntelliJ, VMware, Photoshop, Canva, Premiere Pro  
+- 🐧 **Operating Systems:** Linux (Ubuntu – basic commands, process & file management), Windows  
+- 🔧 **Version Control:** Git, GitHub (branching, pull requests)  
+- 💻 **Programming & Scripting:** Java, Python (Basics), Bash/Shell  
+- ⚙️ **Backend & DevOps Fundamentals:** REST API concepts, Spring Boot (basic understanding / learning)  
+- 🐳 **Containerization:** Docker (images, containers, Dockerfile – basics)  
+- 🔄 **CI/CD:** CI/CD fundamentals  
+- ☁️ **Cloud Platforms:** AWS & GCP (EC2, S3, IAM, RDS – foundational knowledge)  
+- 📡 **Networking Fundamentals:** OSI model, subnetting, VPC basics  
+- 🧰 **Tools & Platforms:** VS Code, IntelliJ IDEA, Eclipse, PuTTY, WinSCP, RDP  
 
 ---
 
 ## 💼 Professional Experience  
 
-### 🖥️ Information Technology Trainee — Flextronics Technologies Pvt Ltd, Coimbatore  
-**Aug 2024 – Dec 2025**
+### 🖥️ Information Technology Trainee — Flextronics, Coimbatore  
+**1 Year 4 Months Experience**
 
-- Assisted in server administration, incident handling, and troubleshooting to maintain consistent uptime.  
-- Worked extensively on Linux systems for monitoring, patch management, and user access control.  
-- Developed automation scripts (Shell/Batch) to reduce manual operational workload.  
-- Provided technical support for servers, VMware applications, and cloud-related tasks.  
-- Gained exposure to data center operations, backups, and recovery processes.  
-- Participated in a large-scale migration involving **3000+ servers**, supporting hardware setup, network configuration, documentation, and post-validation activities.
+- Supported **production troubleshooting** across **3000+ Windows and Linux servers** in enterprise environments.  
+- Performed **incident handling, ticket-based issue resolution, and root cause analysis** for recurring system problems.  
+- Assisted with **patching activities and system migrations**, adhering to change-management procedures.  
+- Worked with **remote server access tools** such as PuTTY, WinSCP, and RDP for operational support.  
+- Gained exposure to real-world production systems, improving system stability and uptime.
 
 ---
 
 ## 💻 Technical Skills  
 
-### **Programming & Core Concepts**  
-- Java  
-- Python  
-- Bash/Shell Scripting  
-- MySQL  
-- Object-Oriented Programming  
+### **Programming & Backend Development**  
+- Java (Core Java, OOPS, exception handling, collections – basics)  
+- SQL, MySQL (CRUD operations, joins, constraints, basic query optimization)  
+- Python (Basics)
 
-### **DevOps & Cloud**  
+### **Frameworks & API Concepts**  
+- REST API concepts  
+- Spring Boot (basic understanding / learning)
+
+### **Data Structures & Problem Solving**  
+- Arrays, Strings, HashMap  
+- Basic algorithms (searching, sorting)  
+- Logical problem solving & debugging
+
+### **DevOps, Cloud & System Fundamentals**  
 - Git, GitHub  
-- Jenkins, Ansible  
-- Docker  
-- Kubernetes (Basic)  
-- Terraform (Learning)  
-- CI/CD Pipelines  
-- AWS (EC2, S3, IAM, VPC, CloudWatch, CloudFront)
+- Docker (basics)  
+- CI/CD fundamentals  
+- AWS & GCP (cloud fundamentals: EC2, S3, IAM, RDS)
 
-### **Monitoring & Observability**  
-- Prometheus (Basic)  
-- Grafana (Basic)
-
-### **Creative & Productivity Tools**  
-- Photoshop, Canva  
-- Illustrator, Premiere Pro, CapCut  
-- VS Code, IntelliJ  
+### **Operating Systems & Tools**  
+- Linux (basic commands, process & file management)  
+- VS Code, IntelliJ IDEA, Eclipse  
+- PuTTY, WinSCP, Remote Desktop Protocol (RDP)
 
 ---
 
 ## 📂 Projects  
 
-### 🔹 Large-Scale Data Center Migration (3000+ Servers)  
-Worked on a major migration initiative that covered thousands of servers.  
-Supported hardware setup, network configuration, documentation, system backups, and cross-team coordination to ensure smooth and minimal-downtime migration.
-
 ### 🔹 Raspberry Pi–Based Parking Slot Availability & Billing System  
-Developed an automated parking system using Raspberry Pi to collect local sensor data and send signals to AWS.  
-Implemented edge computing for low-latency processing and cloud-based management for scalability.
+Implemented an automated parking allotment and billing system using Raspberry Pi devices to send sensor data to AWS.  
+Applied **edge computing concepts** to reduce latency and integrated AWS services for scalable cloud-based management.
 
-### 🔹 PC CraftsMaster — Inventory Management System  
-Created a Java + MySQL console project for inventory tracking, billing, stock updates, error handling, and data validation, ensuring an efficient store management flow.
+### 🔹 PC CraftsMaster — Precision Inventory Management  
+Developed a **Java + MySQL console-based application** for inventory tracking and billing.  
+Implemented stock management, data validation, error handling, and efficient database operations to ensure consistency and reliability.
 
 ---
 
 ## 🎓 Education  
 
-**Bachelor of Engineering in Electronics and Communication Engineering**  
+**Bachelor of Engineering — Electronics and Communication Engineering (2020–2024)**  
 Sri Shakthi Institute of Engineering and Technology, Coimbatore  
 **CGPA:** 7.82 / 10  
 
@@ -96,19 +89,19 @@ Sri Shakthi Institute of Engineering and Technology, Coimbatore
 
 ## 🏅 Certifications  
 
-- **AWS Cloud Practitioner Essentials — Amazon Web Services**  
-- **AWS Technical Essentials — Amazon Web Services**  
-- **AWS Machine Learning & AI Fundamentals — Amazon Web Services**  
-- **AWS Fundamentals — NimbusGurus**  
-- **Google Cloud Fundamentals: Core Infrastructure — Google**  
-- **AI Upskilling Certificate: Technical Foundations — Qualcomm Academy**
+- AWS Cloud Practitioner Essentials — Amazon Web Services  
+- AWS Technical Essentials — Amazon Web Services  
+- AWS Fundamentals of Machine Learning & Artificial Intelligence  
+- Google Cloud Fundamentals: Core Infrastructure  
+- AI Upskilling Certificate: Technical Foundations — Qualcomm Academy  
+- Git Complete — Infosys Springboard  
 
 ---
 
 ## ⭐ Career Objective  
 
-I aim to grow into a **DevOps / Cloud / Infrastructure Engineer**, focusing on implementing automation, improving system performance, and building scalable cloud-based solutions.  
-My long-term goal is to design **secure, reliable, and efficient infrastructure** powered by DevOps, Cloud, and IaC practices.
+To grow into a **Backend / DevOps / Cloud Engineer**, leveraging my production support experience and software development skills to build **scalable, reliable, and automated systems**.  
+I aim to work in **product-focused teams** where clean architecture, system stability, and continuous improvement are valued.
 
 ---
 
@@ -122,4 +115,4 @@ My long-term goal is to design **secure, reliable, and efficient infrastructure*
 
 ---
 
-⭐ *“Building reliable systems through automation, cloud, and continuous improvement.”*
+⭐ *“Turning production support experience into scalable software and reliable systems.”*
