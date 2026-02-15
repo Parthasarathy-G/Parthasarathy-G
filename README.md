@@ -13,15 +13,57 @@ Alongside my support responsibilities, I am **actively revising core software de
 
 I am continuously strengthening my foundation in **software development, DevOps, and cloud technologies**, focusing on skills that improve system reliability and scalability:
 
-- 🐧 **Operating Systems:** Linux (Ubuntu – basic commands, process & file management), Windows  
-- 🔧 **Version Control:** Git, GitHub (branching, pull requests)  
-- 💻 **Programming & Scripting:** Java, Python (Basics), Bash/Shell  
-- ⚙️ **Backend & DevOps Fundamentals:** REST API concepts, Spring Boot (basic understanding / learning)  
-- 🐳 **Containerization:** Docker (images, containers, Dockerfile – basics)  
-- 🔄 **CI/CD:** CI/CD fundamentals  
-- ☁️ **Cloud Platforms:** AWS & GCP (EC2, S3, IAM, RDS – foundational knowledge)  
-- 📡 **Networking Fundamentals:** OSI model, subnetting, VPC basics  
-- 🧰 **Tools & Platforms:** VS Code, IntelliJ IDEA, Eclipse, PuTTY, WinSCP, RDP  
+# Technical Skills
+
+## 🧠 Programming Languages
+- Python – basics for data processing, scripting, and ML workflows
+- Java – core Java, OOP concepts, backend fundamentals
+
+## 📊 Data & Databases
+- SQL / MySQL
+  - CRUD operations
+  - Joins and constraints
+  - Basic query optimization
+- Data preprocessing and basic data handling concepts
+
+## 🧪 AI / Machine Learning Fundamentals
+- Machine Learning & Artificial Intelligence fundamentals
+- Understanding of ML pipelines:
+  - Data collection
+  - Preprocessing
+  - Training
+  - Evaluation
+- Foundational knowledge from AWS & GCP AI/ML learning paths
+
+## 🖥️ Operating Systems & Administration
+- Linux (Ubuntu)
+  - Command-line usage
+  - File and process management
+- Windows – system administration fundamentals
+- Bash / Shell scripting – automation and scripting basics
+
+## ☁️ Cloud Platforms (Foundational)
+- AWS & GCP
+  - EC2 – compute for model training and experimentation
+  - S3 – dataset storage and management
+  - IAM – basic access control and security concepts
+
+## 🔧 Version Control & Collaboration
+- Git, GitHub
+  - Branching strategies
+  - Pull requests
+  - Collaborative development workflows
+
+## 🧰 Tools & Platforms
+- VS Code
+- IntelliJ IDEA
+- Eclipse
+
+## 🌐 Remote Access & Server Tools
+- PuTTY
+- WinSCP
+- Remote Desktop Protocol (RDP)
+
 
 ---
 
