@@ -80,35 +80,6 @@ I am continuously strengthening my foundation in **software development, DevOps,
 
 ---
 
-## 💻 Technical Skills  
-
-### **Programming & Backend Development**  
-- Java (Core Java, OOPS, exception handling, collections – basics)  
-- SQL, MySQL (CRUD operations, joins, constraints, basic query optimization)  
-- Python (Basics)
-
-### **Frameworks & API Concepts**  
-- REST API concepts  
-- Spring Boot (basic understanding / learning)
-
-### **Data Structures & Problem Solving**  
-- Arrays, Strings, HashMap  
-- Basic algorithms (searching, sorting)  
-- Logical problem solving & debugging
-
-### **DevOps, Cloud & System Fundamentals**  
-- Git, GitHub  
-- Docker (basics)  
-- CI/CD fundamentals  
-- AWS & GCP (cloud fundamentals: EC2, S3, IAM, RDS)
-
-### **Operating Systems & Tools**  
-- Linux (basic commands, process & file management)  
-- VS Code, IntelliJ IDEA, Eclipse  
-- PuTTY, WinSCP, Remote Desktop Protocol (RDP)
-
----
-
 ## 📂 Projects  
 
 ### 🔹 Raspberry Pi–Based Parking Slot Availability & Billing System  
