@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
 
-# Software Engineer | Backend • DevOps • Cloud ☁️🔧 | Engineering Graduate  
+# Software Engineer | Java, Python | Backend Development | AI/ML & Cloud Fundamentals  
 
 Welcome to my GitHub profile!  
 I am a **Software Engineer with 1+ year of experience in IT infrastructure and production support**, working on **system troubleshooting, patching, ticket handling, and migration activities** across large-scale Linux and Windows environments.
