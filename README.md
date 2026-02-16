@@ -10,7 +10,7 @@ Alongside my support responsibilities, I’ve actively been transitioning toward
 
 ## 🚀 Current Learning Path  
 
-I am continuously strengthening my foundation in **software development, DevOps, and cloud technologies**, focusing on skills that improve system reliability and scalability:
+I am continuously strengthening my foundation in **software development, Ai/Ml and cloud technologies**, focusing on skills that improve system reliability and scalability:
 
 # Technical Skills
 
