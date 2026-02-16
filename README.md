@@ -112,7 +112,7 @@ Sri Shakthi Institute of Engineering and Technology, Coimbatore
 
 ## ⭐ Career Objective  
 
-To grow into a **Backend / DevOps / Cloud Engineer**, leveraging my production support experience and software development skills to build **scalable, reliable, and automated systems**.  
+To grow into a **Backend / AI/ML / Cloud Engineer**, leveraging my production support experience and software development skills to build **scalable, reliable, and automated systems**.  
 I aim to work in **product-focused teams** where clean architecture, system stability, and continuous improvement are valued.
 
 ---
