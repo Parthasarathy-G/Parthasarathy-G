@@ -2,10 +2,9 @@
 
 # Software Engineer | Java, Python | Backend Development | AI/ML & Cloud Fundamentals  
 
-Welcome to my GitHub profile!  
-I am a **Software Engineer with 1+ year of experience in IT infrastructure and production support**, working on **system troubleshooting, patching, ticket handling, and migration activities** across large-scale Linux and Windows environments.
+I am a Software Engineer with **1+ year of experience in IT infrastructure and production support, working across large-scale Linux and Windows environments**. In my current role, I’ve handled troubleshooting, patching, incident resolution, and ticket-based support for production systems, giving me strong exposure to real-world system behavior, reliability concerns, and operational best practices.
 
-Alongside my support responsibilities, I am **actively revising core software development fundamentals learned during academics** and building hands-on expertise in **Java, MySQL, backend development, and modern DevOps tools**, with the goal of transitioning into **product-oriented software engineering roles**.
+Alongside my support responsibilities, I’ve actively been transitioning toward **software development and AI/ML engineering**, reinforcing my fundamentals in backend development with Java, MySQL, and Python, while also deepening my familiarity with AI/ML workflows, data preprocessing, and basic model training concepts. I regularly apply these skills in personal projects documented on my GitHub profile.
 
 ---
 
