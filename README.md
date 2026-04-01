@@ -1,123 +1,110 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
 
-# MLOps Engineer | ML Infrastructure | Python | Cloud & Automation
+# Software Engineer | Cloud Support Background | AWS, Azure | Kubernetes, Docker | CI/CD | Incident Management & Monitoring
 
-I am an aspiring **MLOps Engineer** with a foundation in **production support, cloud fundamentals and machine learning workflows**. My background in managing large-scale Linux and Windows environments has helped me build a strong understanding of **system reliability, automation, troubleshooting, and operational stability**.
+I am an aspiring **DevOps Engineer** with a strong foundation in **production support, cloud fundamentals, and infrastructure operations**. My experience managing large-scale Linux and Windows environments has helped me develop a deep understanding of **system reliability, automation, troubleshooting, and operational stability**.
 
-I am currently focused on growing at the intersection of **Machine Learning, DevOps, and Cloud Engineering** by learning how to build and support **scalable ML pipelines, model deployment workflows, data processing systems, and reliable production environments**.
+I am currently focused on building expertise in **DevOps and Cloud Engineering**, learning how to design and support **scalable infrastructure, CI/CD pipelines, containerized applications, and reliable production systems**.
 
 ---
 
 ## Summary
 
-- Experience supporting enterprise production systems across Linux and Windows environments
-- Strong interest in MLOps, ML lifecycle management, deployment workflows, and cloud-based automation
-- Hands-on exposure to Python, Java, SQL, shell scripting, and cloud platforms such as AWS and GCP
-- Comfortable with incident handling, patching, root cause analysis, and day-to-day operational support
-- Building toward roles focused on ML platform engineering, model operations, and production-grade AI systems
+- Experience supporting enterprise production systems across Linux and Windows environments  
+- Strong interest in DevOps, cloud infrastructure, automation, and CI/CD workflows  
+- Hands-on exposure to Python, shell scripting, and cloud platforms such as AWS and GCP  
+- Comfortable with incident handling, patching, root cause analysis, and operational support  
+- Building toward roles focused on infrastructure automation, deployment pipelines, and system reliability  
 
 ---
 
-## Core MLOps Skills
+## Core DevOps Skills
 
-### Machine Learning Workflow Understanding
-- Data collection and preparation
-- Data preprocessing and transformation
-- Model training fundamentals
-- Model evaluation basics
-- Experiment-oriented development mindset
-- End-to-end ML pipeline awareness
-
-### Programming & Automation
-- Python for scripting, automation, and ML-related workflows
-- Java for backend fundamentals and application development
-- Bash / Shell scripting for task automation
-- SQL / MySQL for structured data handling
+### Automation & Scripting
+- Python for automation and system-level scripting  
+- Bash / Shell scripting for task automation  
 
 ### Cloud & Infrastructure
-- AWS foundational services
-- GCP foundational services
-- Compute and storage concepts for ML workloads
-- Identity and access management basics
-- Environment setup and remote server support
+- AWS foundational services  
+- GCP foundational services  
+- Compute, storage, and networking fundamentals  
+- Identity and access management basics  
+- Environment setup and remote server support  
+
+### DevOps Practices
+- CI/CD concepts and pipeline workflows  
+- Containerization using Docker  
+- Basic understanding of Kubernetes orchestration  
+- Infrastructure reliability and scalability principles  
 
 ### Production Operations
-- Incident management
-- Root cause analysis
-- Patching and maintenance workflows
-- Change management support
-- Reliability and uptime awareness
+- Incident management  
+- Root cause analysis  
+- Patching and maintenance workflows  
+- Change management support  
+- System reliability and uptime awareness  
 
 ### Version Control & Collaboration
-- Git and GitHub
-- Branching and repository workflows
-- Pull request-based collaboration
+- Git and GitHub  
+- Branching strategies and collaboration workflows  
+- Pull request-based development  
 
 ---
 
 ## Tools & Technologies
 
 ### Languages
-- Python
-- Java
-- SQL
-- Bash
+- Python  
+- Bash  
 
 ### Platforms & Cloud
-- AWS
-- GCP
-- Linux
-- Windows
+- AWS  
+- GCP  
+- Linux  
+- Windows  
 
 ### Developer & Ops Tools
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- Eclipse
-- PuTTY
-- WinSCP
-- RDP
+- Git  
+- GitHub  
+- VS Code  
+- PuTTY  
+- WinSCP  
+- RDP  
 
 ---
 
 ## Current Focus Areas
 
-- Learning how to design **reliable ML pipelines**
-- Understanding **model deployment and monitoring concepts**
-- Improving skills in **cloud-based ML infrastructure**
-- Strengthening **Python automation and backend engineering**
-- Exploring how **DevOps practices support production ML systems**
+- Building and managing **CI/CD pipelines**  
+- Learning **Docker and Kubernetes** for containerized deployments  
+- Improving **cloud infrastructure skills (AWS, GCP)**  
+- Strengthening **automation using Python and shell scripting**  
+- Understanding **system monitoring and reliability engineering concepts**  
 
 ---
 
 ## Professional Experience
 
-### Information Technology Trainee — Flextronics, Coimbatore
+### Information Technology Trainee — Flextronics, Coimbatore  
 **1 Year 4 Months Experience**
 
-- Supported production troubleshooting across **3000+ Linux and Windows servers**
-- Worked on incident resolution and recurring issue analysis in enterprise environments
-- Assisted with patching, migrations, and operational support activities
-- Used remote access and administration tools to manage production systems
-- Gained practical exposure to reliability, uptime, and production support processes
+- Supported production troubleshooting across **3000+ Linux and Windows servers**  
+- Worked on incident resolution and recurring issue analysis in enterprise environments  
+- Assisted with patching, migrations, and operational support activities  
+- Used remote access and administration tools to manage production systems  
+- Gained practical exposure to reliability, uptime, and production support processes  
 
-This experience helped me develop an operations-first mindset that aligns strongly with **MLOps**, where dependable infrastructure, automation, and monitoring are critical for successful ML systems.
+This experience helped me build a strong operations mindset aligned with **DevOps principles**, where automation, monitoring, and reliability are critical.
 
 ---
 
 ## Projects
 
 ### Raspberry Pi-Based Parking Slot Availability & Billing System
-- Built an automated parking and billing workflow using Raspberry Pi devices
-- Sent sensor-driven data to AWS for cloud-based processing and management
-- Applied edge and cloud integration concepts relevant to real-time systems
-- Strengthened understanding of connected systems, data flow, and scalable architecture
-
-### PC CraftsMaster — Precision Inventory Management
-- Developed a Java and MySQL console-based application for inventory and billing
-- Implemented data validation, stock handling, and database operations
-- Improved understanding of backend logic, structured data management, and reliability
+- Built an automated parking and billing workflow using Raspberry Pi devices  
+- Integrated with AWS for cloud-based processing and management  
+- Applied edge-to-cloud communication concepts  
+- Strengthened understanding of distributed systems and real-time data flow  
 
 ---
 
@@ -125,32 +112,30 @@ This experience helped me develop an operations-first mindset that aligns strong
 
 **Bachelor of Engineering — Electronics and Communication Engineering (2020–2024)**  
 Sri Shakthi Institute of Engineering and Technology, Coimbatore  
-**CGPA:** 7.82 / 10
+**CGPA:** 7.82 / 10  
 
 ---
 
 ## Certifications
 
-- AWS Cloud Practitioner Essentials
-- AWS Technical Essentials
-- AWS Fundamentals of Machine Learning & Artificial Intelligence
-- Google Cloud Fundamentals: Core Infrastructure
-- AI Upskilling Certificate: Technical Foundations — Qualcomm Academy
-- Git Complete — Infosys Springboard
+- AWS Cloud Practitioner Essentials  
+- AWS Technical Essentials  
+- Google Cloud Fundamentals: Core Infrastructure  
+- Git Complete — Infosys Springboard  
 
 ---
 
 ## Career Objective
 
-To build a career as an **MLOps / ML Infrastructure / Cloud Engineer**, combining my production support background with software and machine learning fundamentals to create **scalable, automated, and reliable ML systems**.
+To build a career as a **DevOps Engineer / Cloud Engineer**, leveraging my production support experience to design and maintain **scalable, automated, and reliable systems**.
 
-I am especially interested in roles where I can contribute to:
+I am particularly interested in contributing to:
 
-- ML pipeline automation
-- Model deployment workflows
-- Cloud-based infrastructure
-- Monitoring and operational excellence
-- Reliable production systems for AI applications
+- CI/CD pipeline development  
+- Cloud infrastructure automation  
+- Containerized application deployment  
+- Monitoring and system reliability  
+- High-availability production environments  
 
 ---
 
@@ -164,4 +149,4 @@ I am especially interested in roles where I can contribute to:
 
 ---
 
-**Building toward MLOps by combining ML fundamentals, cloud learning, and real-world production operations experience.**
+**Building toward DevOps by combining cloud learning, automation skills, and real-world production operations experience.**
