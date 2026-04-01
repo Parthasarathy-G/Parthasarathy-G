@@ -22,6 +22,10 @@ I am currently focused on building expertise in **DevOps and Cloud Engineering**
 
 ## Summary
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Summary-Experience%20%7C%20Goals%20%7C%20Strengths-0f172a?style=for-the-badge" alt="Summary section badge" />
+</p>
+
 - Experience supporting enterprise production systems across Linux and Windows environments
 - Strong interest in DevOps, cloud infrastructure, automation, and CI/CD workflows
 - Hands-on exposure to Python, shell scripting, and cloud platforms such as AWS and GCP
@@ -93,6 +97,10 @@ I am currently focused on building expertise in **DevOps and Cloud Engineering**
 ## Tools & Technologies
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Tools%20%26%20Technologies-Cloud%20%7C%20Code%20%7C%20Operations-1d4ed8?style=for-the-badge" alt="Tools section badge" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,aws,gcp,docker,kubernetes,git,github,vscode,linux,windows" alt="Tools and technologies" />
 </p>
 
@@ -119,6 +127,10 @@ I am currently focused on building expertise in **DevOps and Cloud Engineering**
 ## Current Focus Areas
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Focus%20Areas-Learning%20by%20Building-0f766e?style=for-the-badge" alt="Focus areas section badge" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Current%20Focus-CI%2FCD%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20Cloud-111827?style=for-the-badge" alt="Current focus" />
 </p>
 
@@ -131,6 +143,10 @@ I am currently focused on building expertise in **DevOps and Cloud Engineering**
 ---
 
 ## Professional Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Professional%20Experience-Production%20Support%20at%20Scale-b45309?style=for-the-badge" alt="Experience section badge" />
+</p>
 
 ### Information Technology Trainee - Flextronics, Coimbatore
 **1 Year 4 Months Experience**
@@ -147,6 +163,10 @@ This experience helped me build a strong operations mindset aligned with **DevOp
 
 ## Projects
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-Building%20Practical%20Systems-7c3aed?style=for-the-badge" alt="Projects section badge" />
+</p>
+
 ### Raspberry Pi-Based Parking Slot Availability & Billing System
 - Built an automated parking and billing workflow using Raspberry Pi devices
 - Integrated with AWS for cloud-based processing and management
@@ -157,6 +177,10 @@ This experience helped me build a strong operations mindset aligned with **DevOp
 
 ## Education
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Education-Engineering%20Foundation-334155?style=for-the-badge" alt="Education section badge" />
+</p>
+
 **Bachelor of Engineering - Electronics and Communication Engineering (2020-2024)**
 Sri Shakthi Institute of Engineering and Technology, Coimbatore
 **CGPA:** 7.82 / 10
@@ -164,6 +188,10 @@ Sri Shakthi Institute of Engineering and Technology, Coimbatore
 ---
 
 ## Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Certifications-Cloud%20and%20Git%20Learning-15803d?style=for-the-badge" alt="Certifications section badge" />
+</p>
 
 - AWS Cloud Practitioner Essentials
 - AWS Technical Essentials
@@ -173,6 +201,10 @@ Sri Shakthi Institute of Engineering and Technology, Coimbatore
 ---
 
 ## Career Objective
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Career%20Objective-DevOps%20%26%20Cloud%20Growth-be123c?style=for-the-badge" alt="Career objective section badge" />
+</p>
 
 To build a career as a **DevOps Engineer / Cloud Engineer**, leveraging my production support experience to design and maintain **scalable, automated, and reliable systems**.
 
@@ -187,6 +219,10 @@ I am particularly interested in contributing to:
 ---
 
 ## Connect With Me
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Connect-Let%27s%20Build%20Together-0369a1?style=for-the-badge" alt="Connect section badge" />
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/parthasarathyg28/" target="_blank">
