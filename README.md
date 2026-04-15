@@ -16,7 +16,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Coimbatore-15803d?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Phone-%2B91--9940954455-b45309?style=flat-square" alt="Phone" />
   <img src="https://komarev.com/ghpvc/?username=Parthasarathy-G&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views" />
 </p>
 
