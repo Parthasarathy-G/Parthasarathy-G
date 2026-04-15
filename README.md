@@ -28,7 +28,7 @@ I am currently focused on building expertise in **DevOps and Cloud Engineering**
 
 - Experience supporting enterprise production systems across Linux and Windows environments
 - Strong interest in DevOps, cloud infrastructure, automation, and CI/CD workflows
-- Hands-on exposure to Python, shell scripting, and cloud platforms such as AWS and GCP
+- Hands-on exposure to Python, shell scripting, and cloud platforms such as AWS
 - Comfortable with incident handling, patching, root cause analysis, and operational support
 - Building toward roles focused on infrastructure automation, deployment pipelines, and system reliability
 
@@ -42,7 +42,6 @@ I am currently focused on building expertise in **DevOps and Cloud Engineering**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Automation-Python%20%7C%20Bash-1f6feb?style=for-the-badge" alt="Automation badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-0ea5e9?style=for-the-badge" alt="Cloud badge" />
   <img src="https://img.shields.io/badge/Containers-Docker%20%7C%20Kubernetes-16a34a?style=for-the-badge" alt="Containers badge" />
   <img src="https://img.shields.io/badge/Ops-Incidents%20%7C%20RCA%20%7C%20Reliability-f59e0b?style=for-the-badge" alt="Ops badge" />
 </p>
@@ -59,7 +58,6 @@ I am currently focused on building expertise in **DevOps and Cloud Engineering**
     </td>
     <td>
       AWS foundational services<br />
-      GCP foundational services<br />
       Compute, storage, and networking fundamentals<br />
       Identity and access management basics<br />
       Environment setup and remote server support
@@ -101,7 +99,7 @@ I am currently focused on building expertise in **DevOps and Cloud Engineering**
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,aws,gcp,docker,kubernetes,git,github,vscode,linux,windows" alt="Tools and technologies" />
+  <img src="https://skillicons.dev/icons?i=python,bash,aws,docker,kubernetes,git,github,vscode,linux,windows" alt="Tools and technologies" />
 </p>
 
 ### Languages
@@ -110,7 +108,6 @@ I am currently focused on building expertise in **DevOps and Cloud Engineering**
 
 ### Platforms & Cloud
 - AWS
-- GCP
 - Linux
 - Windows
 
@@ -136,7 +133,7 @@ I am currently focused on building expertise in **DevOps and Cloud Engineering**
 
 - Building and managing **CI/CD pipelines**
 - Learning **Docker and Kubernetes** for containerized deployments
-- Improving **cloud infrastructure skills (AWS, GCP)**
+- Improving **cloud infrastructure skills (AWS)**
 - Strengthening **automation using Python and shell scripting**
 - Understanding **system monitoring and reliability engineering concepts**
 
