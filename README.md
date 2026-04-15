@@ -1,232 +1,191 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
 
-<h1 align="center">Software Engineer | Cloud Support Background | AWS, Azure | Kubernetes, Docker | CI/CD | Incident Management & Monitoring</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0369a1,100:22c55e&text=Parthasarathy%20Gunasekaran&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation%20%7C%20Reliability&descAlignY=58" alt="Header" />
+
+<h1 align="center">Building reliable systems, automating workflows, and growing every day in DevOps.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=0EA5E9&center=true&vCenter=true&width=950&lines=Aspiring+DevOps+Engineer;Production+Support+to+Cloud+%26+Infrastructure+Operations;Learning+by+building+reliable%2C+scalable+systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=DevOps+Engineer+from+Coimbatore;1%2B+years+in+production+support+and+system+reliability;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+AWS+%7C+Azure+%7C+Terraform;Monitoring%2C+automation%2C+troubleshooting%2C+and+continuous+improvement" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="#summary">Summary</a> |
-  <a href="#core-devops-skills">Skills</a> |
-  <a href="#projects">Projects</a> |
-  <a href="#certifications">Certifications</a> |
-  <a href="#connect-with-me">Connect</a>
+  <a href="mailto:parthasarathy.work@gmail.com"><img src="https://img.shields.io/badge/Email-parthasarathy.work%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/parthasarathyg28/"><img src="https://img.shields.io/badge/LinkedIn-Parthasarathy%20Gunasekaran-0369a1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Parthasarathy-G"><img src="https://img.shields.io/badge/GitHub-Parthasarathy--G-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-I am an aspiring **DevOps Engineer** with a strong foundation in **production support, cloud fundamentals, and infrastructure operations**. My experience managing large-scale Linux and Windows environments has helped me develop a deep understanding of **system reliability, automation, troubleshooting, and operational stability**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Coimbatore-15803d?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Phone-%2B91--9940954455-b45309?style=flat-square" alt="Phone" />
+  <img src="https://komarev.com/ghpvc/?username=Parthasarathy-G&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views" />
+</p>
 
-I am currently focused on building expertise in **DevOps and Cloud Engineering**, learning how to design and support **scalable infrastructure, CI/CD pipelines, containerized applications, and reliable production systems**.
+<p align="center">
+  <a href="#career-summary">Summary</a> •
+  <a href="#skills--tech-stack">Skills</a> •
+  <a href="#experience">Experience</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#education">Education</a> •
+  <a href="#certifications">Certifications</a> •
+  <a href="#achievements">Achievements</a>
+</p>
 
 ---
 
-## Summary
+## Career Summary
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Summary-Experience%20%7C%20Goals%20%7C%20Strengths-0f172a?style=for-the-badge" alt="Summary section badge" />
-</p>
+<img align="right" alt="DevOps gif" width="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9vMmFnbGRobzJrajNvenYxZzd3eHZ4NzRoemJ3dzk5MjZ2eXU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" />
 
-- Experience supporting enterprise production systems across Linux and Windows environments
-- Strong interest in DevOps, cloud infrastructure, automation, and CI/CD workflows
-- Hands-on exposure to Python, shell scripting, and cloud platforms such as AWS
-- Comfortable with incident handling, patching, root cause analysis, and operational support
-- Building toward roles focused on infrastructure automation, deployment pipelines, and system reliability
+IT professional with **1+ years of support experience**, skilled in **DevOps practices including CI/CD, Docker, and AWS**. Experienced in **automating deployments, troubleshooting issues, and improving system reliability** using **GitHub Actions, Jenkins, and Linux**.
+
+### What I Bring
+
+- Production support experience across large Linux and Windows environments
+- Strong interest in cloud engineering, automation, CI/CD, and reliability
+- Hands-on exposure to deployment workflows, infrastructure, monitoring, and incident response
+- A practical mindset shaped by troubleshooting, root cause analysis, and uptime-focused operations
 
 ---
 
-## Core DevOps Skills
+## Skills & Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=Skills+Spotlight;Automation+%7C+Cloud+%7C+Containers+%7C+Reliability;Focused+on+practical+DevOps+growth" alt="Skills spotlight animation" />
+  <img src="https://skillicons.dev/icons?i=python,java,bash,aws,azure,terraform,docker,kubernetes,git,github,jenkins,linux" alt="Skill icons" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Automation-Python%20%7C%20Bash-1f6feb?style=for-the-badge" alt="Automation badge" />
-  <img src="https://img.shields.io/badge/Containers-Docker%20%7C%20Kubernetes-16a34a?style=for-the-badge" alt="Containers badge" />
-  <img src="https://img.shields.io/badge/Ops-Incidents%20%7C%20RCA%20%7C%20Reliability-f59e0b?style=for-the-badge" alt="Ops badge" />
-</p>
-
-<table align="center">
+<table>
   <tr>
-    <td align="center"><strong>Automation & Scripting</strong></td>
-    <td align="center"><strong>Cloud & Infrastructure</strong></td>
-  </tr>
-  <tr>
-    <td>
-      Python for automation and system-level scripting<br />
-      Bash / Shell scripting for task automation
+    <td width="50%" valign="top">
+      <h3>Programming & Scripting</h3>
+      <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>Shell Scripting</li>
+      </ul>
     </td>
-    <td>
-      AWS foundational services<br />
-      Compute, storage, and networking fundamentals<br />
-      Identity and access management basics<br />
-      Environment setup and remote server support
+    <td width="50%" valign="top">
+      <h3>Cloud & Infrastructure</h3>
+      <ul>
+        <li>Amazon Web Services (AWS)</li>
+        <li>Azure</li>
+        <li>Terraform</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>DevOps Practices</strong></td>
-    <td align="center"><strong>Production Operations</strong></td>
-  </tr>
-  <tr>
-    <td>
-      CI/CD concepts and pipeline workflows<br />
-      Containerization using Docker<br />
-      Basic understanding of Kubernetes orchestration<br />
-      Infrastructure reliability and scalability principles
+    <td width="50%" valign="top">
+      <h3>DevOps & CI/CD</h3>
+      <ul>
+        <li>Git</li>
+        <li>GitHub Actions</li>
+        <li>Jenkins</li>
+        <li>CI/CD Pipelines</li>
+      </ul>
     </td>
-    <td>
-      Incident management<br />
-      Root cause analysis<br />
-      Patching and maintenance workflows<br />
-      Change management support<br />
-      System reliability and uptime awareness
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <strong>Version Control & Collaboration</strong><br />
-      Git and GitHub | Branching strategies and collaboration workflows | Pull request-based development
+    <td width="50%" valign="top">
+      <h3>Containers, Monitoring & Systems</h3>
+      <ul>
+        <li>Docker</li>
+        <li>Kubernetes</li>
+        <li>AWS CloudWatch</li>
+        <li>Grafana</li>
+        <li>Prometheus</li>
+        <li>Linux</li>
+      </ul>
     </td>
   </tr>
 </table>
 
----
-
-## Tools & Technologies
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Tools%20%26%20Technologies-Cloud%20%7C%20Code%20%7C%20Operations-1d4ed8?style=for-the-badge" alt="Tools section badge" />
+  <img src="https://img.shields.io/badge/Focus-CI%2FCD-0f172a?style=for-the-badge" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Focus-Docker-0369a1?style=for-the-badge" alt="Docker" />
+  <img src="https://img.shields.io/badge/Focus-Kubernetes-1d4ed8?style=for-the-badge" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Focus-Terraform-7c3aed?style=for-the-badge" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Focus-Monitoring-15803d?style=for-the-badge" alt="Monitoring" />
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,aws,docker,kubernetes,git,github,vscode,linux,windows" alt="Tools and technologies" />
-</p>
-
-### Languages
-- Python
-- Bash
-
-### Platforms & Cloud
-- AWS
-- Linux
-- Windows
-
-### Developer & Ops Tools
-- Git
-- GitHub
-- VS Code
-- PuTTY
-- WinSCP
-- RDP
 
 ---
 
-## Current Focus Areas
+## Experience
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus%20Areas-Learning%20by%20Building-0f766e?style=for-the-badge" alt="Focus areas section badge" />
-</p>
+### Information Technology Trainee | Flextronics (Hybrid)
+**August 2024 - December 2025**  
+**Coimbatore**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Current%20Focus-CI%2FCD%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20Cloud-111827?style=for-the-badge" alt="Current focus" />
-</p>
-
-- Building and managing **CI/CD pipelines**
-- Learning **Docker and Kubernetes** for containerized deployments
-- Improving **cloud infrastructure skills (AWS)**
-- Strengthening **automation using Python and shell scripting**
-- Understanding **system monitoring and reliability engineering concepts**
-
----
-
-## Professional Experience
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Professional%20Experience-Production%20Support%20at%20Scale-b45309?style=for-the-badge" alt="Experience section badge" />
-</p>
-
-### Information Technology Trainee - Flextronics, Coimbatore
-**1 Year 4 Months Experience**
-
-- Supported production troubleshooting across **3000+ Linux and Windows servers**
-- Worked on incident resolution and recurring issue analysis in enterprise environments
-- Assisted with patching, migrations, and operational support activities
-- Used remote access and administration tools to manage production systems
-- Gained practical exposure to reliability, uptime, and production support processes
-
-This experience helped me build a strong operations mindset aligned with **DevOps principles**, where automation, monitoring, and reliability are critical.
+- Managed and monitored **3000+ Linux/Windows servers**, ensuring **99.9% uptime**
+- Performed **root cause analysis (RCA)**, reducing recurring production issues
+- Supported **system migrations and patching**, minimizing deployment downtime
+- Gained hands-on experience in **system reliability, monitoring, and incident response**
 
 ---
 
 ## Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Projects-Building%20Practical%20Systems-7c3aed?style=for-the-badge" alt="Projects section badge" />
-</p>
+### CI/CD Pipeline for Containerized Application
 
-### Raspberry Pi-Based Parking Slot Availability & Billing System
-- Built an automated parking and billing workflow using Raspberry Pi devices
-- Integrated with AWS for cloud-based processing and management
-- Applied edge-to-cloud communication concepts
-- Strengthened understanding of distributed systems and real-time data flow
+- Integrated a **GitHub Actions CI workflow** into an existing full-stack healthcare application to automate frontend build validation and security checks on push and pull request events
+- Containerized the **Next.js frontend** with a **multi-stage Dockerfile**, enabling reproducible production builds and simpler deployment setup across environments with **above 80% efficiency**
+- Improved project delivery readiness by adding automated scanning with **Trivy** and **Gitleaks**, helping catch security and secret exposure issues earlier in the development pipeline
 
----
+### Infrastructure as Code with Monitoring
 
-## Education
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Education-Engineering%20Foundation-334155?style=for-the-badge" alt="Education section badge" />
-</p>
-
-**Bachelor of Engineering - Electronics and Communication Engineering (2020-2024)**
-Sri Shakthi Institute of Engineering and Technology, Coimbatore
-**CGPA:** 7.82 / 10
+- Built reusable **Infrastructure as Code modules with Terraform** to deploy scalable AWS environments
+- Reduced setup time from **hours to minutes** by automating infrastructure provisioning
+- Improved system observability by implementing **monitoring dashboards and alerting mechanisms**
 
 ---
 
 ## Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Certifications-Cloud%20and%20Git%20Learning-15803d?style=for-the-badge" alt="Certifications section badge" />
-</p>
-
-- AWS Cloud Practitioner Essentials
-- AWS Technical Essentials
-- Google Cloud Fundamentals: Core Infrastructure
-- Git Complete - Infosys Springboard
+- AWS Cloud Practitioner Essentials - AWS
+- AWS Fundamentals of Machine Learning and Artificial Intelligence - AWS
+- Google Cloud Fundamentals: Core Infrastructure - Google
+- AI Upskilling Certificate - Qualcomm Academy
 
 ---
 
-## Career Objective
+## Education
+
+### B.E. Electronics and Communication
+**Sri Shakthi Institute of Engineering and Technology, Coimbatore**  
+**Graduated:** 2024  
+**CGPA:** 7.82 / 10
+
+---
+
+## Achievements
+
+As the **Club Editor for the Rotaract Club of Sri Shakthi Institute of Engineering and Technology** under **Rotaract District 3201**, I was responsible for editing and designing the club's magazines, posters, letterheads, and bulletins. My role involved collaborating closely with club members to produce visually appealing and informative content for a variety of club events. Additionally, I actively participated in numerous Rotaract events, contributing to the club's community outreach and engagement efforts.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Career%20Objective-DevOps%20%26%20Cloud%20Growth-be123c?style=for-the-badge" alt="Career objective section badge" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Parthasarathy-G&show_icons=true&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22c55e&border_color=1f2937" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Parthasarathy-G&theme=transparent&ring=38bdf8&fire=22c55e&currStreakLabel=e2e8f0&border=1f2937" alt="GitHub streak" />
 </p>
 
-To build a career as a **DevOps Engineer / Cloud Engineer**, leveraging my production support experience to design and maintain **scalable, automated, and reliable systems**.
-
-I am particularly interested in contributing to:
-
-- CI/CD pipeline development
-- Cloud infrastructure automation
-- Containerized application deployment
-- Monitoring and system reliability
-- High-availability production environments
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthasarathy-G&bg_color=0f172a&color=e2e8f0&line=38bdf8&point=22c55e&area=true&hide_border=true" alt="Contribution graph" />
+</p>
 
 ---
 
 ## Connect With Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Connect-Let%27s%20Build%20Together-0369a1?style=for-the-badge" alt="Connect section badge" />
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/parthasarathyg28/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="25" />
+  <a href="mailto:parthasarathy.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-b91c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/parthasarathyg28/">
+    <img src="https://img.shields.io/badge/LinkedIn-Open%20Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+  <a href="https://github.com/Parthasarathy-G">
+    <img src="https://img.shields.io/badge/GitHub-View%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
 </p>
 
----
+<h3 align="center">Focused on DevOps, cloud infrastructure, automation, and building reliable systems that scale.</h3>
 
-**Building toward DevOps by combining cloud learning, automation skills, and real-world production operations experience.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:0369a1,100:22c55e" alt="Footer" />
