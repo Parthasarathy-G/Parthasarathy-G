@@ -46,8 +46,8 @@
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img alt="DevOps gif" width="320" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpsbm9ra2w1MHNjNXQ5cnRibm5qeWRvNWNmZGh1dWN2dWg2cWk3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" />
-     </td>
+      <img alt="DevOps gif" width="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9vMmFnbGRobzJrajNvenYxZzd3eHZ4NzRoemJ3dzk5MjZ2eXU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" />    
+    </td>
     
   </tr>
 </table>
