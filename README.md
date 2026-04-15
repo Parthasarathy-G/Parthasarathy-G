@@ -33,16 +33,24 @@
 
 ## Career Summary
 
-<img align="right" alt="DevOps gif" width="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9vMmFnbGRobzJrajNvenYxZzd3eHZ4NzRoemJ3dzk5MjZ2eXU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" />
-
-IT professional with **1+ years of support experience**, skilled in **DevOps practices including CI/CD, Docker, and AWS**. Experienced in **automating deployments, troubleshooting issues, and improving system reliability** using **GitHub Actions, Jenkins, and Linux**.
-
-### What I Bring
-
-- Production support experience across large Linux and Windows environments
-- Strong interest in cloud engineering, automation, CI/CD, and reliability
-- Hands-on exposure to deployment workflows, infrastructure, monitoring, and incident response
-- A practical mindset shaped by troubleshooting, root cause analysis, and uptime-focused operations
+<table align="center">
+  <tr>
+    <td width="62%" valign="top">
+      <p>IT professional with <strong>1+ years of support experience</strong>, skilled in <strong>DevOps practices including CI/CD, Docker, and AWS</strong>. Experienced in <strong>automating deployments, troubleshooting issues, and improving system reliability</strong> using <strong>GitHub Actions, Jenkins, and Linux</strong>.</p>
+      <h3>What I Bring</h3>
+      <ul>
+        <li>Production support experience across large Linux and Windows environments</li>
+        <li>Strong interest in cloud engineering, automation, CI/CD, and reliability</li>
+        <li>Hands-on exposure to deployment workflows, infrastructure, monitoring, and incident response</li>
+        <li>A practical mindset shaped by troubleshooting, root cause analysis, and uptime-focused operations</li>
+      </ul>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img alt="DevOps gif" width="320" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpsbm9ra2w1MHNjNXQ5cnRibm5qeWRvNWNmZGh1dWN2dWg2cWk3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" />
+     </td>
+    
+  </tr>
+</table>
 
 ---
 
@@ -52,7 +60,7 @@ IT professional with **1+ years of support experience**, skilled in **DevOps pra
   <img src="https://skillicons.dev/icons?i=python,java,bash,aws,azure,terraform,docker,kubernetes,git,github,jenkins,linux" alt="Skill icons" />
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>Programming & Scripting</h3>
