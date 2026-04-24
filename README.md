@@ -190,5 +190,3 @@ Served as **Club Editor** for the Rotaract Club of Sri Shakthi Institute of Engi
 </p>
 
 <h3 align="center">Focused on cloud infrastructure, automation, reliability, and building systems that scale.</h3>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:0369a1,100:22c55e" alt="Footer" />
