@@ -1,9 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
 
-<h1 align="center">Building reliable systems, automating workflows, and growing every day in cloud and DevOps.</h1>
+<h1 align="center">Software Developer focused on building reliable applications, automation, and cloud-ready solutions.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=Cloud+%26+DevOps+Engineer+from+Coimbatore;1%2B+year+in+production+support+and+infrastructure+operations;Production+Support+%7C+Cloud+%7C+CI%2FCD+%7C+Docker+%7C+Terraform;Monitoring%2C+automation%2C+troubleshooting%2C+and+continuous+improvement" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=Software+Developer+from+Coimbatore;Java+%7C+Python+%7C+SQL+%7C+Selenium;Backend+Development+%7C+Automation+%7C+Cloud;Building+projects%2C+learning+continuously%2C+and+solving+problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,17 +34,17 @@
 <table align="center">
   <tr>
     <td width="62%" valign="top">
-      <p>Infrastructure and Cloud Operations professional with <strong>1+ year of experience</strong> supporting production environments across large-scale Linux and Windows systems. Hands-on experience in <strong>troubleshooting, incident response, root cause analysis, patching, and infrastructure support</strong>.</p>
+      <p>Software development-focused engineer with a foundation in <strong>Java, Python, SQL, object-oriented programming, and automation testing</strong>. Interested in building maintainable applications, backend services, test automation, and cloud-enabled solutions.</p>
       <h3>What I Bring</h3>
       <ul>
-        <li>Production support experience across 3000+ Linux and Windows servers</li>
-        <li>Practical exposure to system reliability, monitoring, patching, and change management</li>
-        <li>Hands-on DevOps project work in AWS, Docker, Terraform, GitHub Actions, and Jenkins</li>
-        <li>A strong operational mindset focused on uptime, troubleshooting, and continuous improvement</li>
+        <li>Strong foundation in Java, Python, OOP, SQL, data structures, and problem solving</li>
+        <li>Hands-on development experience through application and automation projects</li>
+        <li>Practical exposure to Selenium, TestNG, Git, Linux, Docker, CI/CD, and cloud platforms</li>
+        <li>Infrastructure and production-support experience that strengthens debugging, troubleshooting, and reliability skills</li>
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img alt="DevOps gif" width="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9vMmFnbGRobzJrajNvenYxZzd3eHZ4NzRoemJ3dzk5MjZ2eXU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" />    
+      <img alt="Software Development gif" width="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9vMmFnbGRobzJrajNvenYxZzd3eHZ4NzRoemJ3dzk5MjZ2eXU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" />
     </td>
   </tr>
 </table>
@@ -54,56 +54,64 @@
 ## Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,aws,terraform,docker,git,github,jenkins,linux" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,selenium,spring,docker,git,github,jenkins,aws,gcp,linux" alt="Skill icons" />
 </p>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>Programming & Scripting</h3>
+      <h3>Programming & Development</h3>
       <ul>
+        <li>Java</li>
         <li>Python</li>
-        <li>Shell Scripting</li>
+        <li>Object-Oriented Programming</li>
+        <li>Data Structures & Algorithms</li>
+        <li>SQL / MySQL</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Cloud & Infrastructure</h3>
+      <h3>Backend & Automation</h3>
       <ul>
-        <li>AWS</li>
-        <li>Terraform</li>
-        <li>VMware</li>
+        <li>Spring Boot</li>
+        <li>REST API Concepts</li>
+        <li>Selenium WebDriver</li>
+        <li>TestNG</li>
+        <li>Automation Testing</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>DevOps & CI/CD</h3>
+      <h3>DevOps & Cloud</h3>
       <ul>
-        <li>Git</li>
-        <li>GitHub Actions</li>
+        <li>Git & GitHub</li>
+        <li>Docker</li>
         <li>Jenkins</li>
-        <li>CI/CD Pipelines</li>
+        <li>CI/CD</li>
+        <li>AWS & GCP</li>
+        <li>Terraform</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Monitoring & Systems</h3>
+      <h3>Systems & Tools</h3>
       <ul>
-        <li>CloudWatch</li>
-        <li>Grafana</li>
-        <li>Prometheus</li>
-        <li>Linux</li>
-        <li>Windows Server</li>
+        <li>Linux / Ubuntu</li>
+        <li>Shell Scripting</li>
+        <li>GitHub Actions</li>
+        <li>Monitoring & Troubleshooting</li>
+        <li>Networking Fundamentals</li>
+        <li>VS Code / IntelliJ IDEA</li>
       </ul>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-CI%2FCD-0f172a?style=for-the-badge" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Focus-Docker-0369a1?style=for-the-badge" alt="Docker" />
-  <img src="https://img.shields.io/badge/Focus-Terraform-7c3aed?style=for-the-badge" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Focus-Monitoring-15803d?style=for-the-badge" alt="Monitoring" />
-  <img src="https://img.shields.io/badge/Focus-Reliability-0ea5e9?style=for-the-badge" alt="Reliability" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%26%20Python-0f172a?style=for-the-badge" alt="Java and Python" />
+  <img src="https://img.shields.io/badge/Focus-Backend-0369a1?style=for-the-badge" alt="Backend" />
+  <img src="https://img.shields.io/badge/Focus-Automation-7c3aed?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-15803d?style=for-the-badge" alt="Cloud and DevOps" />
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-0ea5e9?style=for-the-badge" alt="Problem Solving" />
 </p>
 
 ---
@@ -114,28 +122,38 @@
 **August 2024 - December 2025**  
 **Coimbatore**
 
-- Supported production environments across **3000+ Linux and Windows servers**, helping maintain system availability and minimize downtime
-- Troubleshot server, application, and infrastructure issues to support faster incident resolution in production environments
-- Performed **root cause analysis (RCA)** for recurring issues and assisted in corrective actions to improve system reliability
-- Assisted with **OS patching, security updates, server migrations, and infrastructure maintenance** while minimizing operational disruption
-- Monitored system health and resource usage across CPU, memory, and storage to support performance and operational stability
-- Worked with **VMware-based virtualized environments**, backup/recovery operations, and change management processes as part of infrastructure support activities
+- Supported production environments across **3000+ Linux and Windows servers**, developing strong troubleshooting and problem-solving skills
+- Investigated application, server, and infrastructure issues and supported faster incident resolution
+- Performed **root cause analysis (RCA)** for recurring issues and assisted with corrective actions
+- Worked with **OS patching, security updates, server migrations, monitoring, and infrastructure maintenance**
+- Gained practical exposure to **Linux, Windows Server, VMware, networking, change management, and production operations**
+- Built an operational foundation that complements software development through debugging, reliability, and systematic problem solving
 
 ---
 
 ## Projects
 
+### Gym Membership Management System
+
+- Built a **QR-based gym membership management system** with attendance tracking and membership expiry monitoring
+- Developed the application using **Python Flask and MySQL**
+- Implemented admin login, member management, QR-based check-in/check-out, attendance history, and diet upload workflows
+- Added trainer approval flow for uploaded diet information
+- Worked across backend logic, database integration, and web application functionality
+
 ### CI/CD Pipeline for Containerized Application
 
-- Built a **GitHub Actions-based CI pipeline** for a containerized web application to automate build validation on push and pull request events
-- Containerized the **Next.js frontend** using a **multi-stage Dockerfile** to create reproducible, deployment-ready production images
-- Integrated **Trivy** for vulnerability scanning and **Gitleaks** for secret detection to improve security checks early in the development workflow
+- Built a **GitHub Actions-based CI pipeline** for a containerized web application
+- Containerized the application using **Docker** and a multi-stage Dockerfile
+- Integrated **Trivy** for vulnerability scanning and **Gitleaks** for secret detection
+- Automated build validation on push and pull request events
 
 ### Infrastructure as Code with Monitoring
 
-- Developed reusable **Terraform modules** to provision AWS infrastructure in a repeatable and automated manner
-- Reduced manual setup effort by automating infrastructure provisioning workflows
-- Configured **monitoring dashboards and alerting mechanisms** to improve infrastructure visibility and operational awareness
+- Developed reusable **Terraform modules** to provision AWS infrastructure in a repeatable manner
+- Automated infrastructure provisioning to reduce manual setup effort
+- Configured **monitoring dashboards and alerting mechanisms** for better infrastructure visibility
+- Applied Git and Linux practices to maintain version-controlled infrastructure
 
 ---
 
@@ -189,4 +207,4 @@ Served as **Club Editor** for the Rotaract Club of Sri Shakthi Institute of Engi
   </a>
 </p>
 
-<h3 align="center">Focused on cloud infrastructure, automation, reliability, and building systems that scale.</h3>
+<h3 align="center">Focused on software development, backend engineering, automation, cloud technologies, and building reliable solutions.</h3>
