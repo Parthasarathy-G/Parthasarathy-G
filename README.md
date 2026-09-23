@@ -198,18 +198,6 @@ Served as **Club Editor** for the Rotaract Club of Sri Shakthi Institute of Engi
 
 ---
 
-## 📈 Developer Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthasarathy-G&bg_color=0f172a&color=e2e8f0&line=38bdf8&point=22c55e&area=true&hide_border=true" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parthasarathy-G&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
