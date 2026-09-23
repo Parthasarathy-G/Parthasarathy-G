@@ -1,9 +1,21 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://parthasarathy_g.io)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0F172A,50:2563EB,100:7C3AED&text=Parthasarathy%20G&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20Backend%20%7C%20Automation&descAlignY=62&descSize=17" alt="Animated header" />
+</p>
+
 <h1 align="center">Software Developer focused on building reliable applications, automation, and cloud-ready solutions.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=Software+Developer+from+Coimbatore;Java+%7C+Python+%7C+SQL+%7C+Selenium;Backend+Development+%7C+Automation+%7C+Cloud;Building+projects%2C+learning+continuously%2C+and+solving+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=980&height=90&lines=Software+Developer+from+Coimbatore;Java+%7C+Python+%7C+SQL+%7C+Selenium;Backend+Development+%7C+Automation+%7C+Cloud;Turning+ideas+into+clean%2C+working+software;Always+learning.+Always+building." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Backend-2563EB?style=for-the-badge&logo=springboot&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/Automation-7C3AED?style=for-the-badge&logo=selenium&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/Cloud-059669?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud" />
 </p>
 
 <p align="center">
@@ -29,13 +41,13 @@
 
 ---
 
-## Career Summary
+## ✨ Career Summary
 
 <table align="center">
   <tr>
     <td width="62%" valign="top">
       <p>Software development-focused engineer with a foundation in <strong>Java, Python, SQL, object-oriented programming, and automation testing</strong>. Interested in building maintainable applications, backend services, test automation, and cloud-enabled solutions.</p>
-      <h3>What I Bring</h3>
+      <h3>🚀 What I Bring</h3>
       <ul>
         <li>Strong foundation in Java, Python, OOP, SQL, data structures, and problem solving</li>
         <li>Hands-on development experience through application and automation projects</li>
@@ -51,16 +63,16 @@
 
 ---
 
-## Skills & Tech Stack
+## 🛠️ Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,selenium,spring,docker,git,github,jenkins,aws,gcp,linux" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,selenium,spring,docker,git,github,jenkins,aws,gcp,linux&perline=6" alt="Skill icons" />
 </p>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>Programming & Development</h3>
+      <h3>💻 Programming & Development</h3>
       <ul>
         <li>Java</li>
         <li>Python</li>
@@ -70,7 +82,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Backend & Automation</h3>
+      <h3>⚙️ Backend & Automation</h3>
       <ul>
         <li>Spring Boot</li>
         <li>REST API Concepts</li>
@@ -82,7 +94,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>DevOps & Cloud</h3>
+      <h3>☁️ DevOps & Cloud</h3>
       <ul>
         <li>Git & GitHub</li>
         <li>Docker</li>
@@ -93,7 +105,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Systems & Tools</h3>
+      <h3>🔧 Systems & Tools</h3>
       <ul>
         <li>Linux / Ubuntu</li>
         <li>Shell Scripting</li>
@@ -108,15 +120,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Java%20%26%20Python-0f172a?style=for-the-badge" alt="Java and Python" />
-  <img src="https://img.shields.io/badge/Focus-Backend-0369a1?style=for-the-badge" alt="Backend" />
-  <img src="https://img.shields.io/badge/Focus-Automation-7c3aed?style=for-the-badge" alt="Automation" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-15803d?style=for-the-badge" alt="Cloud and DevOps" />
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-0ea5e9?style=for-the-badge" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Focus-Backend-2563EB?style=for-the-badge" alt="Backend" />
+  <img src="https://img.shields.io/badge/Focus-Automation-7C3AED?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-059669?style=for-the-badge" alt="Cloud and DevOps" />
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-0891B2?style=for-the-badge" alt="Problem Solving" />
 </p>
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Information Technology Trainee | Flextronics (Hybrid)
 **August 2024 - December 2025**  
@@ -131,7 +143,7 @@
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### Gym Membership Management System
 
@@ -157,7 +169,7 @@
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 - AWS Cloud Practitioner Essentials - AWS
 - Google Cloud Fundamentals: Core Infrastructure - Google
@@ -165,7 +177,7 @@
 
 ---
 
-## Education
+## 🎓 Education
 
 ### B.E. Electronics and Communication
 **Sri Shakthi Institute of Engineering and Technology, Coimbatore**  
@@ -174,13 +186,13 @@
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 Served as **Club Editor** for the Rotaract Club of Sri Shakthi Institute of Engineering and Technology under **Rotaract District 3201**, where I designed and edited magazines, posters, bulletins, and event materials while collaborating with teams on club activities and outreach initiatives.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Parthasarathy-G&show_icons=true&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22c55e&border_color=1f2937" alt="GitHub stats" />
@@ -193,7 +205,7 @@ Served as **Club Editor** for the Rotaract Club of Sri Shakthi Institute of Engi
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:parthasarathy.work@gmail.com">
@@ -207,4 +219,8 @@ Served as **Club Editor** for the Rotaract Club of Sri Shakthi Institute of Engi
   </a>
 </p>
 
-<h3 align="center">Focused on software development, backend engineering, automation, cloud technologies, and building reliable solutions.</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:7C3AED&animation=fadeIn" alt="Animated footer" />
+</p>
+
+<h3 align="center">💙 Focused on software development, backend engineering, automation, cloud technologies, and building reliable solutions.</h3>
